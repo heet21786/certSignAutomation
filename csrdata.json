@@ -1,0 +1,2 @@
+[{"csrName" : "Server6.csr","caCert" : "rootCA.pem","caKey" : "server3.key","days" : "360","certName" : "sha2.crt","pPhrase" : "1234"},
+{"csrName" : "Server7.csr","caCert" : "rootCA.pem","caKey" : "server3.key","days" : "360","certName" : "sha23.crt","pPhrase" : "1234"}]
